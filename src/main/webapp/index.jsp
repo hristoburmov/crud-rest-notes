@@ -3,18 +3,20 @@
 <head>
 	<meta charset="UTF-8">
 	<title>CRUD REST Notes</title>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 </head>
 <body>
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<h2 class="text-center text-uppercase mb-3 mt-4">CRUD REST Notes Endpoints</h2>
-				<table class="table table-bordered table-striped">
+				<h2 class="text-center text-uppercase mb-5 mt-5">CRUD REST Notes Resources</h2>
+				<table class="table table-striped table-hover">
 					<thead>
-						<td class="text-center text-uppercase">Method</td>
-						<td class="text-uppercase">URL</td>
-						<td class="text-uppercase">Description</td>
+						<tr>
+							<th class="text-center text-uppercase">Method</th>
+							<th class="text-uppercase">URL</th>
+							<th class="text-uppercase">Description</th>
+						</tr>
 					</thead>
 					<tbody>
 						<tr>
